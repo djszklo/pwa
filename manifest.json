@@ -1,0 +1,17 @@
+{
+    "name": "Pogoda na wczoraj",
+    "short_name": "Pogoda",
+    "theme_color": "#3dd83d",
+    "background_color": "#cfcfcf",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/pwa/",
+    "icons":[
+        {
+            "src": "./lglg.icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+  }
